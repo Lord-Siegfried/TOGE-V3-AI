@@ -2,7 +2,7 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //contact details
-global.ownernumber = [ process.env.OWNER_NUMBER || "237681640773"],
+global.ownernumber = [ process.env.OWNER_NUMBER || "237697706009"],
 global.ownername = process.env.OWNER_NAME || "_*🩸𝗗𝗜𝗔𝗠𝗢𝗡𝗗💎𝗞𝗠𝗚🩸*_",
 global.ytname = "YT: kenzo3146"
 global.socialm = "GitHub: toge012345"
@@ -22,7 +22,7 @@ global.wm = "𝐓𝐎𝐆𝐄_𝐁𝐎𝐓 𝐈𝐧𝐜 ✨"
 global.link = 'https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z'
 
 //custom prefix
-global.prefa = process.env.PREFIX || "$",
+global.prefa = process.env.PREFIX || "+",
 
 //false=disable and true=enable
 global.welcome = process.env.WELCOME || "false", //auto welcome
